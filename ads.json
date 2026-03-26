@@ -48,8 +48,13 @@
       "ApplovinInterstitialSP": "1235bf0aaaee5d6f",
       "ApplovinNative"        : "f30a305e1fb5ded4",
       "ApplovinReward"        : "1564701d3670a040",
-      "ApplovinOpenAd"        : "ef5a7c2335bbcf0d"
+      "ApplovinOpenAd"        : "ef5a7c2335bbcf0d",
 
+      "UnityGameID": "4076527",
+      "UnityBanner": "BannerAd",
+      "UnityInterstitialAd": "InterstitialAd",
+      "UnityInterstitialSP": "InterstitialAd",
+      "UnityRewardAd": "rewardedVideo"
     },
 
     "AdPromote": [
